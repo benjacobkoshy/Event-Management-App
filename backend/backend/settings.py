@@ -156,4 +156,4 @@ MEDIA_ROOT = BASE_DIR / 'media'  # Directory to store uploaded media files
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-STRIPE_SECRET_KEY = "sk_test_51QgsTWKBYzIIjNrIkpkZkpolZGLQnut8vIVqsDY9wSzwFumf0kQdk0KvmRBZOMC2IbP5CAuFqEaG2bbBHoPW8e6z00x0dtIsmc"
+STRIPE_SECRET_KEY = "your secret key"
